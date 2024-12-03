@@ -1,1 +1,22 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.color{
+    margin-top: 100px;
+}
+.container{
+    background-color: lightblue;
+    height: 2000px;
+    width: 1400px;
+    display:flex
 
+}
+.box{
+    background-color:yellow;
+    height: 500px;
+    width: 400px;
+    margin-inline: 280px;
+    border-radius: 240px;
+    box-shadow: black 50px;
+}
